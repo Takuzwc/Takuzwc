@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a web developer, interested in back-end development using node.js and python and also like to create command line inteface applications and APIs. I have knowledge in databases that include Postgress and MongoDB. I am familiar with Linux, IOS and windows operating systems. 
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3TZrQKNrqBp5jQVVSOyaf7&ust=1726506661870000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDotdm4xYgDFQAAAAAdAAAAABAK">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/q7trw3SZ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/takunda-ngwenya-10568a256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
 
